@@ -1,6 +1,6 @@
 # python_algorithm
 
-## 11월
+## 4월
 
 | date  | problem set                                          | seyeon | jinju | ajeong | hyeona |
 | ----- | ---------------------------------------------------- | ------ | ----- | ------ | ------ |
