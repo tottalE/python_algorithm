@@ -2,16 +2,17 @@
 n = int(input())
 arr = list(map(int, input().split()))
 
-arr.sort(reverse=True)
+# 내림차순으로 정렬
+arr.sort()
 
-length = len(arr)
-temp = arr.pop()
+# 리스트의 길이와 가장 작은 요소를 변수에 담음
+result = 0
 cnt = 0
 
-while(length >= temp):
-    for _ in range(0, temp):
-        temp = arr.pop()
-    length = len(arr)
+for i in arr:
     cnt += 1
+    if cnt >= i: # 큰 경우가 뭐지?
+        result += 1
+        cnt = 0
 
-print(cnt)
+print(result)
