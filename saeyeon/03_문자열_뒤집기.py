@@ -22,7 +22,7 @@ for i in range(len(data)):
 
 countList.append(count)
 
-#[3,2,2] 가 전체가 홀수이면 n-1/2 짝수이면 /2 하면 됨
+#[3,2,2] 가 개수가 홀수이면 n-1/2 짝수이면 /2 하면 됨
 
 if (len(countList)%2==0):
   print(int(len(countList)/2))
