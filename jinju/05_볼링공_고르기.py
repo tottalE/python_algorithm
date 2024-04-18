@@ -4,8 +4,8 @@ ball_cnt = []
 
 cnt = 1
 total = 0
-temp = list_int[0]
 list_int.sort()
+temp = list_int[0]
 
 # 1 2 2 3 3 -> 1 2, 1 2, 1 3, 1 3, 2 3, 2 3, 2 3, 2 3
 for i in range(1, len(list_int)):
