@@ -12,8 +12,8 @@
 | 04.15     | 만들 수 없는 금액                                                                     | 🔺      | 🔺    |  🔺    |   🔺   |
 | 04.16     | 볼링공 고르기                                                                         | ✅      | ✅    | ✅     |   ✅    |
 | 04.17     | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |    🔺     |       |  ✅     |   🔺   |
-| **04.18** |                                                                                       |         |       |        |        |
-|04.19| [럭키 스트레이트](https://www.acmicpc.net/problem/18406)                                         |         |       |        |        |
+| **04.18** |                                                                                       |    ✅     |       |        |        |
+|04.19| [럭키 스트레이트](https://www.acmicpc.net/problem/18406)                                         |    🔺     |       |        |        |
 |04.20 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                        |         |       |        |        |
 |04.21 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)                      |         |       |        |        |
 |04.22 | [뱀](https://www.acmicpc.net/problem/3190)                                                   |         |       |        |        |
