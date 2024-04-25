@@ -1,3 +1,11 @@
+def digit_length(i):
+  digit = 0
+  while i >= 10:
+    i = i // 10
+    digit+=1
+
+  return digit+1
+
 def solution(s):
   length_half = len(s)//2
   gap = 1
@@ -19,7 +27,7 @@ def solution(s):
       else:
           total_length+=len(str)
           if count != 1:
-              total_length+=1 #중복되는 숫자 개수 추가
+              total_length+=(digit_length(count)) #중복되는 숫자 개수 추가
           start_index = i
           end_index = j
           i = start_index + gap
@@ -30,7 +38,7 @@ def solution(s):
         total_length+=len(str)
         total_length+=(len(s)%gap) #남은 문자열이 있는 경우
         if count != 1:
-          total_length+=1 #중복되는 숫자 개수 추가
+          total_length+=(digit_length(count)) #중복되는 숫자 개수 추가
         if(min_total_length > total_length):
           min_total_length = total_length
         gap += 1
