@@ -15,8 +15,3 @@
 | **04.18** |                                                                                       |        |       |        |        |
 |04.19| [럭키 스트레이트](https://www.acmicpc.net/problem/18406)                                         |     ✅     |       |        |   ✅   |
 |04.20 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                        |    🔺     |       |        |   🔺   |
-|04.21 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)                      |         |       |        |        |
-|04.22 | [뱀](https://www.acmicpc.net/problem/3190)                                                   |         |       |        |        |
-|04.23| [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)                        |         |       |        |        |    
-|04.24| [치킨 배달](https://www.acmicpc.net/problem/15686)                                                 |         |       |        |        |
-| **04.25** |                                                                                       |         |       |        |        |
