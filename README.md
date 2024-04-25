@@ -15,3 +15,10 @@
 | **04.18** |                                                                                       |        |       |        |        |
 |04.19| [럭키 스트레이트](https://www.acmicpc.net/problem/18406)                                         |     ✅     |       |        |   ✅   |
 |04.20 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                        |    🔺     |       |        |   🔺   |
+|04.21 | [Two Sum](https://leetcode.com/problems/two-sum/)                                              |        |       |        |        |
+|04.22 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)   |        |       |        |        |
+|04.23 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                        |        |       |        |        |
+|04.24 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)      |        |       |        |        |
+|04.25 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                              |        |       |        |        |
+|04.26 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)              |        |       |        |        |
+|04.27 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |        |       |        |        |
