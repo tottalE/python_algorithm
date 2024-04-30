@@ -16,7 +16,7 @@
 |04.19| [럭키 스트레이트](https://www.acmicpc.net/problem/18406)                                         |     ✅     |       |        |   ✅   |
 |04.20 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                        |    🔺     |       |        |   🔺   |
 | **04.25** |                                                                                       |        |       |        |        |
-|04.26 | [Two Sum](https://leetcode.com/problems/two-sum/)                                              |   ✅     |       |        |        | [💡](https://youtu.be/KLlXCFG5TnA)|
+|04.26 | [Two Sum](https://leetcode.com/problems/two-sum/)                                              |   ✅     |   ✅    |        |        | [💡](https://youtu.be/KLlXCFG5TnA)|
 |04.27 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)   |    ✅    |       |        |        |[💡](https://youtu.be/1pkOgXD63yU) |
 |04.28 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                        |   ✅     |       |        |        |[💡](https://youtu.be/3OamzN90kPg) |
 |04.29 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)      |        |       |        |        | [💡](https://youtu.be/bNvIQI2wAjk)|
