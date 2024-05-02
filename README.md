@@ -21,6 +21,9 @@
 |04.28 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                        |   ✅     |    ✅   |    ✅    |   ✅   |[💡](https://youtu.be/3OamzN90kPg) |
 |04.29 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)      |    🔺   |   ✅    |   🔺     |   🔺   | [💡](https://youtu.be/bNvIQI2wAjk)|
 |04.30 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                              |        |   🔺    |        |   🔺   |[💡](https://youtu.be/5WZl3MMT0Eg) |
+
+## 5월
 | date      | problem set                                                                           | saeyeon | jinju | ajeong | hyeona | 답 |
+| --------- | ------------------------------------------------------------------------------------- | ------- | ----- | ------ | ------ | --|
 |05.01 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)              |        |       |        |        |[💡](https://youtu.be/lXVy6YWFcRM) |
 |**05.02** | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |        |       |        |        | [💡](https://youtu.be/nIVW4P8b1VA)|
