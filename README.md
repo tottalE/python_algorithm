@@ -1,7 +1,7 @@
 # python_algorithm
 
 [정오표](https://github.com/ndb796/python-for-coding-test/blob/master/notice.md)
-
+[Top 6 Coding Interview Concepts (Data Structures & Algorithms) ](https://youtu.be/ft0owvS5tQA?feature=shared)
 
 ## array
 | date      | problem set                                                                           | saeyeon | jinju | ajeong | hyeona | 답 |
@@ -18,6 +18,9 @@
 |05.05 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)              |       |       |        |        |[💡](https://youtu.be/UuiTKBwPgAo) |
 
 ## Binary
+[Binary search 개념](https://youtu.be/Ix-7qWQr_RE?feature=shared)
+[How exactly does binary code work?](https://youtu.be/wgbV6DLVezo?feature=shared)
+
 | date      | problem set                                                                           | saeyeon | jinju | ajeong | hyeona | 답 |
 | --------- | ------------------------------------------------------------------------------------- | ------- | ----- | ------ | ------ | --|
 |05.06 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)              |       |       |        |        |[💡](https://youtu.be/gVUrDV4tZfY) |
