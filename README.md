@@ -16,10 +16,6 @@
 |05.03 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)              |       |       |        |        |[💡](https://youtu.be/U8XENwh8Oy8) |
 |05.04 | [3Sum](https://leetcode.com/problems/3sum/)              |       |       |        |        |[💡](https://youtu.be/jzZsG8n2R9A) |
 |05.05 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)              |       |       |        |        |[💡](https://youtu.be/UuiTKBwPgAo) |
-|05.06 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)              |       |       |        |        |[💡](https://youtu.be/gVUrDV4tZfY) |
-|05.06 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)              |       |       |        |        |[💡](https://youtu.be/5Km3utixwZs) |
-|05.07 | [Counting Bits](https://leetcode.com/problems/counting-bits/)              |       |       |        |        |[💡](https://youtu.be/RyBM56RIWrM) |
-|**05.09** | [Missing Number](https://leetcode.com/problems/missing-number/)              |       |       |        |        |[💡](https://youtu.be/WnPLSRLSANE) |
 
 ## Binary
 | date      | problem set                                                                           | saeyeon | jinju | ajeong | hyeona | 답 |
