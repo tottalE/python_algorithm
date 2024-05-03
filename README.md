@@ -1,6 +1,9 @@
 # python_algorithm
 
+[**python doc**](https://docs.python.org/3/tutorial/index.html)
+
 [정오표](https://github.com/ndb796/python-for-coding-test/blob/master/notice.md)
+
 [Top 6 Coding Interview Concepts (Data Structures & Algorithms) ](https://youtu.be/ft0owvS5tQA?feature=shared)
 
 ## array
@@ -19,6 +22,7 @@
 
 ## Binary
 [Binary search 개념](https://youtu.be/Ix-7qWQr_RE?feature=shared)
+
 [How exactly does binary code work?](https://youtu.be/wgbV6DLVezo?feature=shared)
 
 | date      | problem set                                                                           | saeyeon | jinju | ajeong | hyeona | 답 |
