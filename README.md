@@ -16,7 +16,7 @@
 |04.30 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                              |        |   🔺    |        |   🔺   |[💡](https://youtu.be/5WZl3MMT0Eg) |
 |05.01 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)              |   🔺     |    🔺   |        |        |[💡](https://youtu.be/lXVy6YWFcRM) |
 |**05.02** | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |    🔺    |    🔺   |        |        | [💡](https://youtu.be/nIVW4P8b1VA)|
-|05.03 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |       |    🔺   |        |        |[💡](https://youtu.be/U8XENwh8Oy8) |
+|05.03 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  🔺     |    🔺   |        |        |[💡](https://youtu.be/U8XENwh8Oy8) |
 |05.04 | [3Sum](https://leetcode.com/problems/3sum/)              |       |       |        |        |[💡](https://youtu.be/jzZsG8n2R9A) |
 |05.05 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)              |       |       |        |        |[💡](https://youtu.be/UuiTKBwPgAo) |
 
