@@ -18,7 +18,7 @@
 |**05.02** | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |    🔺    |    🔺   |        |        | [💡](https://youtu.be/nIVW4P8b1VA)|
 |05.03 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  🟧     |    🔺   |        |   ✅   |[💡](https://youtu.be/U8XENwh8Oy8) |
 |05.04 | [3Sum](https://leetcode.com/problems/3sum/)              |  🔺     |       |        |   ✅   |[💡](https://youtu.be/jzZsG8n2R9A) |
-|05.05 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)              |       |       |        |        |[💡](https://youtu.be/UuiTKBwPgAo) |
+|05.05 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)              |       |       |        |   ✅   |[💡](https://youtu.be/UuiTKBwPgAo) |
 
 ## Binary
 [Binary search 개념](https://youtu.be/Ix-7qWQr_RE?feature=shared)
