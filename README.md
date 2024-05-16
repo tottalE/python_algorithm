@@ -28,7 +28,7 @@
 | date      | problem set                                                                           | saeyeon | jinju | ajeong | hyeona | 답 |
 | --------- | ------------------------------------------------------------------------------------- | ------- | ----- | ------ | ------ | --|
 |05.06 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)              |       |       |        |   🔺   |[💡](https://youtu.be/gVUrDV4tZfY) |
-|05.06 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)              |       |       |        |   ✅   |[💡](https://youtu.be/5Km3utixwZs) |
+|05.06 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)              |   ✅    |       |        |   ✅   |[💡](https://youtu.be/5Km3utixwZs) |
 |05.07 | [Counting Bits](https://leetcode.com/problems/counting-bits/)              |       |       |        |   ✅   |[💡](https://youtu.be/RyBM56RIWrM) |
 |**05.09** | [Missing Number](https://leetcode.com/problems/missing-number/)              |       |       |        |   ✅   |[💡](https://youtu.be/WnPLSRLSANE) |
 ## 4월
