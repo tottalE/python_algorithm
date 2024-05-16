@@ -31,6 +31,19 @@
 |05.06 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)              |   ✅    |       |        |   ✅   |[💡](https://youtu.be/5Km3utixwZs) |
 |05.07 | [Counting Bits](https://leetcode.com/problems/counting-bits/)              |       |       |        |   ✅   |[💡](https://youtu.be/RyBM56RIWrM) |
 |**05.09** | [Missing Number](https://leetcode.com/problems/missing-number/)              |   ✅    |       |        |   ✅   |[💡](https://youtu.be/WnPLSRLSANE) |
+|05.17 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                       |       |       |        |      |[💡](https://youtu.be/UcoN6UjAI64) |
+
+## Dynamic Programming
+| date      | problem set                                                                           | saeyeon | jinju | ajeong | hyeona | 답 |
+| --------- | ------------------------------------------------------------------------------------- | ------- | ----- | ------ | ------ | --|
+|05.18 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                          |       |       |        |      |[💡](https://youtu.be/Y0lT9Fck7qI) |
+|05.19 | [Coin Change](https://leetcode.com/problems/coin-change/)                                  |       |       |        |      |[💡](https://youtu.be/H9bfqozjoqs) |
+|05.20 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)   |       |       |        |      |[💡](https://youtu.be/cjWnW0hdF1Y) |
+|05.21 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)     |       |       |        |      |[💡](https://youtu.be/Ua0GhsJSlWM) |
+|05.22 | [Word Break Problem](https://leetcode.com/problems/word-break/)                              |       |       |        |      |[💡](https://youtu.be/Sx9NNgInc3A) |
+|05.23 | [Combination Sum](https://leetcode.com/problems/combination-sum/)                            |       |       |        |      |[💡](https://youtu.be/GBKI9VSKdGg) |
+
+
 ## 4월
 
 | date      | problem set                                                                           | saeyeon | jinju | ajeong | hyeona | 답 |
