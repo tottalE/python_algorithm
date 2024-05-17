@@ -31,7 +31,7 @@
 |05.06 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)              |   ✅    |       |        |   ✅   |[💡](https://youtu.be/5Km3utixwZs) |
 |05.07 | [Counting Bits](https://leetcode.com/problems/counting-bits/)              |       |       |        |   ✅   |[💡](https://youtu.be/RyBM56RIWrM) |
 |**05.09** | [Missing Number](https://leetcode.com/problems/missing-number/)              |   ✅    |       |        |   ✅   |[💡](https://youtu.be/WnPLSRLSANE) |
-|05.17 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                       |       |       |        |      |[💡](https://youtu.be/UcoN6UjAI64) |
+|05.17 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                       | ✅    |       |        |      |[💡](https://youtu.be/UcoN6UjAI64) |
 
 ## Dynamic Programming
 | date      | problem set                                                                           | saeyeon | jinju | ajeong | hyeona | 답 |
